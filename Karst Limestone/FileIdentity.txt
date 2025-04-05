@@ -1,6 +1,1 @@
-NFVsP_in - Normal Force vs Penetration
-RDFVsP_in - Rolling/Drag Force vs Penetration
-SFVsP_in - Side Force vs Penetration
-REVsP_in - Resultant Force vs Penetration
-CDCVsP_in - Cutting/Drag Coefficient vs Penetration
-SEVsP_in - Specific Energy vs Penetration
+Delete
